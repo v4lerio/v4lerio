@@ -12,4 +12,8 @@ Sporadically, I write on an Italian Information Security online newspaper. I am 
 
 Feel free to ask me anything about my personal or professional experience and I'll try to answer without breaching any confidentiality agreements :wink:
 
-📫 You can reach me on [Twitter](https://twitter.com/valeriocestrone)
+📫 You can reach me on [Twitter](https://twitter.com/valeriocestrone) 
+
+[![Twitter](https://img.shields.io/twitter/follow/valeriocestrone?style=social)](https://twitter.com/valeriocestrone)
+
+<!-- <img align='center' src="https://github-readme-stats.vercel.app/api?username=v4lerio&show_icons=true&theme=vue" height="150"> --!>
