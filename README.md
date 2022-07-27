@@ -1,14 +1,18 @@
 ### Hi there 👋
 
-My name is Valerio, and I spend most of my working time on "trying" to breach systems as a Penetration Tester and Red Team Operator in the UK. 
+My name is Valerio! I spend most of my time on thinking 💭 and testing 👨‍💻 
 
-For the remaining time, I keep myself busy with exploit development, reading, learning a new language, monitoring some areas in the deep and the dark sides of the internet, anonymously reporting security issues, and enjoying a bit of sport :running: :swimmer: :climbing:
+I usually trust but always verify. 
 
-Sporadically, I write on an Italian Information Security online newspaper. I am also planning to publish more on a personal blog, I guess that's about time.
+Interests? Infosec, security, intel, exploit dev, reading, monitoring non public areas on the internet, fix security issues, and enjoying a bit of sport :running: :swimmer: :climbing:
 
-👯 I’m open to new collaborations on security/osint/malware and volunteering in the real world!
+Sporadically, I write on InfoSec online newspaper/s 
 
-Feel free to ask me anything about my personal or professional experience and I'll try to answer without breaching any confidentiality agreements :wink:
+Blog? 🤔 cyberstuff.xyz
+
+👯 I’m open to collaborations on security/osint/malware!
+
+Feel free to ask me anything, I'll try to answer :wink:
 
 📫 You can reach me on [Twitter](https://twitter.com/valeriocestrone) 
 
