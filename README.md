@@ -4,15 +4,13 @@ My name is Valerio! I spend most of my time on thinking 💭 and testing 👨‍
 
 I usually trust but always verify. 
 
-Interests? Infosec, security, intel, exploit dev, reading, monitoring non public areas on the internet, fix security issues, and enjoying a bit of sport :running: :swimmer: :climbing:
+Interests? InfoSec, security, intel, exploit dev, monitoring non public areas on the internet, fix security issues, and :running: :swimmer: :climbing:
 
 Sporadically, I write on InfoSec online newspaper/s 
 
 Blog? 🤔 cyberstuff.xyz
 
-👯 I’m open to collaborations on security/osint/malware!
-
-Feel free to ask me anything, I'll try to answer :wink:
+👯 I’m open to collaborations! Feel free to ask me anything
 
 📫 You can reach me on [Twitter](https://twitter.com/valeriocestrone) 
 
