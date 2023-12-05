@@ -1,16 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
 
-My name is Valerio! I spend most of my time on thinking 💭 and testing 👨‍💻 
+Interests? InfoSec, security, intel, exploit dev, see the fix reaching production, and :running: :swimmer: :climbing:
 
-I usually trust but always verify. 
-
-Interests? InfoSec, security, intel, exploit dev, monitoring non public areas on the internet, fix security issues, and :running: :swimmer: :climbing:
-
-Sporadically, I write on InfoSec online newspaper/s 
-
-Blog? 🤔 cyberstuff.xyz
-
-👯 I’m open to collaborations! Feel free to ask me anything
+cyberstuff.xyz
 
 📫 You can reach me on [Twitter](https://twitter.com/valeriocestrone) 
 
